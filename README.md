@@ -17,7 +17,7 @@ A página foi criada com uma combinação de cores marcantes, imagens em destaqu
 🔗 Acesse:
 
 ```
-COLOQUE AQUI O LINK DA SUA LANDING
+https://ldb2010chefinho.github.io/Spider-Man-Brand-New-Day-Landing-Page/
 ```
 
 Exemplo:
