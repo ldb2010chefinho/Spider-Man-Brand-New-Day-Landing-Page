@@ -20,12 +20,6 @@ A página foi criada com uma combinação de cores marcantes, imagens em destaqu
 https://ldb2010chefinho.github.io/Spider-Man-Brand-New-Day-Landing-Page/
 ```
 
-Exemplo:
-
-```
-https://seuusuario.github.io/Spider-Man-Brand-New-Day/
-```
-
 ---
 
 # 🎬 Sobre a Landing Page
